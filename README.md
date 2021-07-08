@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kuntal-python-django
-- 👀 I’m interested in Python, Django, REST API, Postgres, SAAS
+- 👋 Hi, I’m Kuntal
+- 👀 I’m interested in Python, Django, REST API, ML, AWS, Postgres, SAAS
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate
+- 💞️ I’m one of the technocrat
 - 📫 You can reach me by email `kuntal.samanta.temp@gmail.com`
 
 <!---
